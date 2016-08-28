@@ -1,16 +1,16 @@
 ## Codebook for tidy.txt
 
 ### The data set tidy.txt contains the following variables:
-      * SubjectID
+      * SubjectID (intiger)
           - 1-30
-      * Activity
+      * Activity (factor)
           - Walking
           - Walking Upstairs
           - Walking Downstairs
           - Sitting
           - Standing
           - Laying
-      * Variables 3:81
+      * Variables 3:81 (number)
           -  [1] "SubjectID"                                                           
           -  [2] "Activity"                                                            
           -  [3] "timeBodyAccelerometer.mean...X"                                      
