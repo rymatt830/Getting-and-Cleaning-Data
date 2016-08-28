@@ -93,4 +93,4 @@
           - [80] "freqDomainSignalsBodyBodyGyroscopeJerkSignalMagnitude.stimed.."      
           - [81] "freqDomainSignalsBodyBodyGyroscopeJerkSignalMagnitude.meanFreq.."
 
-The additional 79 variables is the mean value reported for a specific subject performing a specifit activity. Additional information regarding these variables can be founs in the run_analysis.R script and in the "features_info" file in the UCI HAR Dataset folder.
+The additional 79 variables is the mean value reported for a specific subject performing a specific activity. Additional information regarding these variables can be found in the run_analysis.R script and in the "features_info" file in the UCI HAR Dataset folder.
